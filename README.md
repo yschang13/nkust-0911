@@ -1,1 +1,1 @@
-$ echo "# Practicing Git" > README.md
+echo "# nkust-0911" 
